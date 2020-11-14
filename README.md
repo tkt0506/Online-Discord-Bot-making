@@ -15,10 +15,24 @@ https://discord.com/api/oauth2/authorize?client_id=735054099401146430&permission
 ## last update(14/11)
 1. add coc extension 
 
+## next update(may not do :>)
+1. fix leaderboard , list , kick , ban , unban bug
+
 --- 
 
 ## commands 
 
+### basic:
+
+#### load 
+load extension 
+
+#### unload 
+unload extension
+
+#### reload 
+reload extension
+ 
 ### mastermind:
 
 #### create 
@@ -47,6 +61,34 @@ show the brief tutorial
 #### leaderboard (have bugs!!!)
 show the leaderboard 
 
+### server:
 
+#### clean (<num.of message to clean>)
+clean message (max:500)
+
+### coc:
+
+#### user (<tag>)
+show user profile 
+  
+#### clan (<tag>)
+show clan profile 
+  
+#### clanwar (<tag>)
+show clanwar profile
+  
+### bank:
+
+#### checkac
+check bank account
+
+#### transfer (<id> , <amount>)
+give money to someone
+  
+#### daily 
+collect $10 daily 
+
+#### list (have bugs!!!)
+show the richest people 
 
 
