@@ -32,6 +32,8 @@ unload extension
 
 #### reload 
 reload extension
+
+---
  
 ### mastermind:
 
@@ -66,6 +68,8 @@ show the leaderboard
 #### clean (<num.of message to clean>)
 clean message (max:500)
 
+---
+
 ### coc:
 
 #### user (<tag>)
@@ -76,6 +80,8 @@ show clan profile
   
 #### clanwar (<tag>)
 show clanwar profile
+ 
+---
   
 ### bank:
 
