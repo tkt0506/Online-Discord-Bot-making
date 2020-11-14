@@ -64,6 +64,8 @@ show the brief tutorial
 #### leaderboard (have bugs!!!)
 show the leaderboard 
 
+---
+
 ### server:
 
 #### clean (<num.of message to clean>)
