@@ -3,9 +3,10 @@
 --- 
 
 ## Description 
-welcome guys , this is my first discord bot made by me . As you know , i am lazy and so the bot won't be updated frequently . /n
-The bot may contain a lot of bugs , if you find some mistake , please tell me to let me improve my bot! /n
-At last , please enjoy using my bot! 
+welcome guys , this is my first discord bot made by me . As you know , i am lazy and so the bot won't be updated frequently .
+
+The bot may contain a lot of bugs , if you find some mistake , please tell me to let me improve my bot!
+
 
 prefix = t!
 
